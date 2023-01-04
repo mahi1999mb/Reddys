@@ -1,0 +1,42 @@
+
+.one{
+    background-color: pink;
+    color: rgb(255, 255, 255);
+    padding:100px;
+    padding-left: 80px;
+    border-radius: 2cm;
+}
+.two{
+    background-color: aqua;
+    color: whitesmoke;
+    padding: 105px;
+    border-radius: 2cm;
+}
+.container{
+    background-color:palegreen;
+    color: whitesmoke;
+    padding: 100px;
+    border-radius: 2cm;
+}
+.three{
+    background-color: aquamarine;
+    color:white;
+    padding: 100px;
+    border-radius: 2cm;
+}
+.one :hover{
+    background-color: black;
+    color: blueviolet;
+}
+.two :hover{
+    background-color:darkgreen;
+    color: cornsilk;
+}
+.container :hover{
+    background-color: brown;
+    color: lightblue;
+}
+.three :hover{
+    background-color: blueviolet;
+    color: aqua;
+}
